@@ -1,4 +1,4 @@
-https://now.gg/play/roblox-corporation/5349/roblox
+https://xn--31byd1i.net/play/roblox-corporation/5349/roblox
 <head><script src="https://s0.2mdn.net/instream/video/client.js" nonce="qMzTqTjB9TkXzg695cx_KA" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://script.4dex.io/localstore.js"></script><style class="vjs-styles-defaults">
       .video-js {
         width: 300px;
